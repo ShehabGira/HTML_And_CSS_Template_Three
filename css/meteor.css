@@ -1723,6 +1723,19 @@ a
     justify-content: center;
     transition: var(--main-transition);
 }
+.footer .box .social li:first-child:hover a
+{
+    background-color: #1877f2;
+}
+.footer .box .social li:nth-child(2):hover a
+{
+    background-color: #1da1f2;
+}
+.footer .box .social li:last-child:hover a 
+{
+    background-color: #ff0000;
+}
+
 .footer .box p
 {
     line-height: 2;
